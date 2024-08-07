@@ -1,0 +1,16 @@
+.extraSpace{
+    margin: 0;
+    padding: 0;
+    height: 2vh;
+    width: 100%;
+    background-color: rgb(24, 22, 22);
+    /* background-image:url("./assets/p4.jpg");
+    background-size: cover;
+    background-repeat: no-repeat; */
+   }
+
+/* .header h1{
+    color: wheat;
+    font-weight: 700;
+    font-family:'Times New Roman', Times, serif;
+} */
